@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Honglin (Henry) Du, a first-year Ph.D. student in the Department of Industrial and Systems Engineering at the University of Florida. I earned two bachelor's degrees from Tianjin University in China. After completing my undergraduate studies, I attended Duke University to pursue a master's degree in Environmental Management. Following a year of work experience in the US, I made the decision to transition my career towards roles that involve substantial data analysis. Subsequently, I pursued another master's degree in Statistics at the University of Delaware while concurrently working at Barclays, where I conducted risk management for Barclays' cobrand credit cards.
+
+Throughout my journey, I have either studied or worked in over 6 states, including California, Delaware, Georgia, Massachusetts, Minnesota, North Carolina, and my current location in Florida. During my leisure time, I have developed a habit of working out at the gym and occasionally going swimming.
+
+
 <!--
 **uflhenrydu508/uflhenrydu508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
